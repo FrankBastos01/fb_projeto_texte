@@ -1,0 +1,20 @@
+{
+  "name": "projetogithubtexte",
+  "version": "1.0.0",
+  "description": "códigos que subiremos pro GitHub",
+  "homepage": "https://github.com/FrankBastos01/fb_projeto_texte#readme",
+  "bugs": {
+    "url": "https://github.com/FrankBastos01/fb_projeto_texte/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrankBastos01/fb_projeto_texte.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
